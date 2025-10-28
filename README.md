@@ -7,6 +7,10 @@ A **modern, responsive business intelligence dashboard** built with **Vue 3**, *
 
 ---
 
+
+
+
+
 ## 🚀 Features
 
 * **Modern UI/UX** — Elegant, professional, and intuitive layout
@@ -17,6 +21,11 @@ A **modern, responsive business intelligence dashboard** built with **Vue 3**, *
 * **WhatsApp Support Widget** — Integrated quick-chat feature
 * **Dark & Light Themes** — Toggle with persistent theme state
 * **Professional Components** — Stats cards, project tables, and activity feeds
+
+
+## 🚀 Demo
+https://sakshsky.com/demo/admin/
+
 
 ---
 
